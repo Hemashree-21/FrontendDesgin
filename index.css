@@ -1,0 +1,35 @@
+h1{
+    background-color:rgb(187, 179, 190);
+}
+p{
+    color:red;
+}
+#heading{
+    text-align: center;
+    color:brown;
+}
+#MB{
+    color:blue;
+}
+/* *{
+    text-align: center;
+    background-color:wheat;
+} */
+.span{
+    text-align: left;
+    color:cadetblue;
+}
+h1,h2,p{
+    text-align: center;
+    color:black;
+}
+div~p{
+    color:brown;
+    text-align: left;
+}
+section>p{
+    color:blueviolet;
+}
+a:hover{
+    background-color: blue;
+}
