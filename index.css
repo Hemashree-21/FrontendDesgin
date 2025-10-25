@@ -1,4 +1,4 @@
-h1{
+/* h1{
     background-color:rgb(187, 179, 190);
 }
 p{
@@ -9,13 +9,13 @@ p{
     color:brown;
 }
 #MB{
-    color:blue;
-}
+    color:blue; */
+/* } */
 /* *{
     text-align: center;
     background-color:wheat;
 } */
-.span{
+/* .span{
     text-align: left;
     color:cadetblue;
 }
@@ -32,4 +32,34 @@ section>p{
 }
 a:hover{
     background-color: blue;
+} */
+/* p::first-line{
+    color:rgb(165, 72, 26);
+    font-size: 20px;
+}
+p[align="left"]{
+    background-color:burlywood;
+}
+img[title=css]{
+  border:5px solid black;
+} */
+
+ /* *{
+   background: #fff url(bossbaby.PNG) repeat-y right;
+ } */
+ /* div{
+    border-style:dashed;
+    border-color:black;
+    border-radius: 15px;
+    border-width: 25px;
+    width: 200px;
+    height: 200px;
+    border: 20px solid black ;
+ } */
+.boss{
+    background-color: darksalmon;
+    display: block;
+}
+.baby{
+    background-color:sienna;
 }
